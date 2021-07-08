@@ -1,0 +1,213 @@
+body
+{
+	font-family:Arial, Verdana,"Trebuchet MS", "Times New Roman";
+	font-size:14px;
+}
+
+.corps
+{
+	width:730px;
+	margin:0 auto;
+}
+
+#entete, #menu, #contenu
+{
+	margin:0 0 5px 0;
+}
+
+#menu
+{
+	width:730px;
+	background-color: #0099ff;
+	color:#fff; /* #ffffff white rgba(255,255,255,1)*/
+	font-weight:bold;
+	display:inline-block;
+	border-radius:10px 10px 0 0;
+	margin:0 0 5px 0;
+}
+
+#menu ul
+{
+	list-style:none;
+	margin:0 auto;
+	display:inline;
+}
+
+#menu li{
+	display:inline-block;
+	float:left;
+	border-left:1px solid #0099ff;
+	border-right:1px solid #ff3333;
+	padding:15px 17px;
+	font-size:17px;
+	font-family:'century gothic', arial, verdana;
+}
+
+#menu li:hover, #menu ul .menu_active{
+	background:#ff3333;
+}
+
+#menu ul .dernier_menu{
+	border-right:none;
+}
+
+#menu ul a{
+	color:#fff;
+	text-decoration:none;
+}
+
+#menu ul a:hover{
+	color:#fff;
+	}
+	
+#slide{
+	background:#c4c4c4;
+	height:440px;
+	margin:2px 0 2px 0;
+	display: block;
+	position:relative;
+}
+
+
+#slide img{
+	display:none; 
+	width: 730px; 
+	height: 440px;
+}
+
+
+#page{
+	display:inline-block;
+	width:730px;
+	margin-top:5px;	
+}
+	
+	
+	
+.article{
+	display:inline-block;
+	width:238.2px;
+	float:left;
+	background:#0099ff;
+	height:300px;
+	margin:5px 5px 15px 0;
+}
+
+.title{
+	background:#ff3333;
+	border-radius:5px 5px 0 0;
+	text-align:center;
+	font-size:24px;
+	font-family:'century gothic';
+	color:#fff;
+}
+
+.description{
+	background:#0099ff;
+	color:white;
+	padding:5px;
+	height:90px;
+}
+
+.readmore{
+	background:#ff3333;
+	color:white;
+	margin-top:-5px;
+	display:inline-block;
+	padding:5px 20px;
+	width:100px;
+	font-family:'century gothic', arial, verdana, 'Times New Roman';
+	font-size:15px;
+}	
+	
+#contenu form
+{
+	width:730px;
+	background:rgb(219,219,219);
+}
+.exe
+{
+font-size:22px;
+font-family:"century gothic";
+text-align:center;
+padding:5px;
+margin:-2px;
+text-decoration:underline;
+}
+
+form table{
+margin:0 0 0 25px;
+font-size:18px;
+font-family:"century gothic";
+font-weight:bold;
+}
+
+
+
+.textform {
+	display:inline-block;
+	width:430px;
+	height:20px;
+	padding:5px 5px 5px 5px;
+	border:2px solid #0099ff;
+}
+
+.text{
+	height:10px;
+	width:20px;
+}
+
+.message{
+	margin-top:-5px;
+	height:250px;
+	width:600px;
+	border:2px solid #0099ff;
+	padding: 10px 10px;
+}
+
+.boutonenvoyer{
+	
+	width:90px;
+	height:40px;
+	float:right;
+	background:#f33;
+	color:#fff;
+	border:1px solid #000;
+	border-radius:10px;
+	font-size: 18px;
+	font-family:"century gothic";
+	box-shadow:0px 15px 10px #000;
+	margin: 0 0 15px 0;
+}
+
+.boutonenvoyer:hover{
+	background:#0099ff;
+}
+
+.erreur{
+	padding:10px;
+	background:#f66;
+	font-size:14px;
+	color:#fff;
+	font-family:"century gothic", arial, verdana;
+	font-size:15px;
+}
+	
+
+	
+	/*  Foot */
+	
+#pied_de_page
+{
+	background:#ff3333;
+	border-top:5px solid #0099ff;
+	color:#fff;
+	font-family:'century gothic', arial, verdana;
+	font-size:16px;
+	text-align:center;
+}
+
+.icon
+{
+	padding:1px;
+}
