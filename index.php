@@ -42,8 +42,8 @@
 		<div class="title">Mission </div>
 			<img src="image/mission.jpg" width="238" height="150" alt="" />
 		<div class="description"> 
-			La programmation web est l'un de domaine de l'informatique le plus important dans le monde
-		d'aujourd'hui, voici quelques formations que j'avais fait en.		
+			Nous vivons dans un monde ou la technologie joue un role capital dans nos vies quotidiennes
+			et les gens on commencent de s'adapter petit a petit dans ce domaine.
 	</div>
 		<a href="#"><center><span class="readmore">Lire Plus</span></a>
 	</div>
@@ -63,8 +63,8 @@
 		<div class="title">Devise </div>
 			<img src="image/devise.jpg" width="238" height="150" alt="" />
 		<div class="description">	
-		La programmation web est l'un de domaine de l'informatique le plus important dans le monde
-		d'aujourd'hui, voici quelques formations que j'avais fait en 
+		ADAI Circle permet de partager la connaissance dans le monde digital surtout la programmation web, data science et aussi
+			l'intelligence artificielle.
 	
 	 </div>
 		<a href="#"><center><span class="readmore">Lire Plus</span></a>
