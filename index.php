@@ -37,6 +37,8 @@
 		
 	</div>
 	
+	<!-- Let change this code tomorrow -->		
+			
 	<div id="page">
 	<div class="article">
 		<div class="title">Mission </div>
