@@ -28,3 +28,5 @@ var $carrousel = $('#slide'), // on cible le bloc du carrousel
 slideImg(); // enfin, on lance la fonction une première fois
 })
 </script>
+
+// Still need to work on this file
